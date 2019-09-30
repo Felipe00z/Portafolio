@@ -10,7 +10,7 @@ $background-opacity: 0.9;
 @mixin background {
   @if $show-home-image {
     &#bg-img {
-      background-image: url("../dist/img/back.jpg");
+      background-image: url("../img/back.jpg");
       background-attachment: fixed;
       background-size: cover;
 
